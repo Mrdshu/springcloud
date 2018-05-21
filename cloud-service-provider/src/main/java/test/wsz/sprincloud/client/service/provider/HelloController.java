@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @create 2018/4/24
  */
 @RestController
-@RefreshScope
+//@RefreshScope
 public class HelloController {
     protected Logger logger = LoggerFactory.getLogger(HelloController.class);
 

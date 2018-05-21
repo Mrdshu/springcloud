@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-server/cloud-server.iml" filepath="$PROJECT_DIR$/cloud-server/cloud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service-api/cloud-service-api.iml" filepath="$PROJECT_DIR$/cloud-service-api/cloud-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service-provider/cloud-service-provider.iml" filepath="$PROJECT_DIR$/cloud-service-provider/cloud-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
+    </modules>
+  </component>
+</project>
