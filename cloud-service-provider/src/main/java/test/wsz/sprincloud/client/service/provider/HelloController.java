@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     protected Logger logger = LoggerFactory.getLogger(HelloController.class);
 
-    @Value("${env}")
+    @Value("${name}")
     private String name;
 
     @Autowired
