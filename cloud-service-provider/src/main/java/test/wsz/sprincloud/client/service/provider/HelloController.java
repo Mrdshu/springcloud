@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @create 2018/4/24
  */
 @RestController
-//@RefreshScope
+@RefreshScope  //此处不可注释，如果想要实现动态配置
 public class HelloController {
     protected Logger logger = LoggerFactory.getLogger(HelloController.class);
 
